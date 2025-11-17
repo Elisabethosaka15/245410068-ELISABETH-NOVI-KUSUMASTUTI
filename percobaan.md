@@ -1,0 +1,9 @@
+# UJIAN TENGAH SEMESTER
+# STDT
+## NAMA : ELISABETH
+## NIM : 245410068
+## KELAS : IF2
+### JAWABAN 
+1. Item 1
+2. Item 2
+3. Item 3
